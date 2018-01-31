@@ -6,3 +6,4 @@ I want learn this software.
 asdadad
 wefef
 阿达的
+my stupid boss still prefers SVN.
