@@ -1,15 +1,4 @@
 Git is a version control system.
 Git is free software.
 I want learn this software.
-玩儿
-安抚
-asdadad
-wefef
-阿达的
-my stupid boss still prefers SVN.
-this is the master branch,add new notify.
-
-asdasdasdads
-
-qweqweqwe
-xzcvxcvzxv
+=====these is master work.
